@@ -1,8 +1,8 @@
 # seo-refactor-project  
 
-## Table of Contents  
+## **Table of Contents**  
 
-1.  [Description](#Description)
+1. [Description](#Description)
 
 2. [Visuals](#Visuals)
 
@@ -10,18 +10,22 @@
 
 4. [Creator Name](#Name)  
 
-## Description 
+## **Description** 
 
-blah blah blah....
+The website 'Horiseon' is an informative website where you can find information on how to improve your websites search engine optimization, oline reputation management, and social media marketing. Not only does it outline information on those subjects but also the potential benefits of doing so. Additional information such as brand awareness, fund management, and how to navigate traffic to your website can also be found on the page. 
 
-## Visuals 
+## **Visuals** 
 
-**images**
+![Top Section](C:\Users\Tre\Bootcamp\Homework\seo-refactor-project\assets\images\herosc.png)
 
-## Usage 
+![Mid Section](C:\Users\Tre\Bootcamp\Homework\seo-refactor-project\assets\images\midsc.png)
+
+![Bottom Section](C:\Users\Tre\Bootcamp\Homework\seo-refactor-project\assets\images\footersc.png)
+
+## **Usage** 
 
 etc etc...
 
-## Name 
+## **Name**
 
-**Trevonne Miller** is responsible for the additional changes made inside the document. No one else contributed to the raw additional code than me.
+**Trevonne Miller** is responsible for the additional changes made inside the document.
